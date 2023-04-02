@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Muscle Factory",
+    "features": ["weight lifting", "cardio machines", "group fitness classes"],
+    "price": 50
+  },
+  {
+    "id": 2,
+    "name": "Fit Nation",
+    "features": ["yoga classes", "personal training", "sauna"],
+    "price": 70
+  },
+  {
+    "id": 3,
+    "name": "Iron House",
+    "features": ["powerlifting equipment", "boxing ring", "spin bikes"],
+    "price": 60
+  },
+  {
+    "id": 4,
+    "name": "Gym Max",
+    "features": ["indoor pool", "basketball court", "crossfit area"],
+    "price": 80
+  }
+]
